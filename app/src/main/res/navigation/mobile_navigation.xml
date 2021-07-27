@@ -17,7 +17,7 @@
         tools:layout="@layout/future_list_weather_fragment" />
     <fragment
         android:id="@+id/futureDetailWeatherViewModel"
-        android:name="com.example.forecast.ui.weather.future.detail.FutureDetailWeatherViewModel"
+        android:name="com.example.forecast.ui.weather.future.detail.FutureDetailWeatherFragment"
         android:label="future_detail_weather_view_model_fragment"
         tools:layout="@layout/future_detail_weather_view_model_fragment" />
     <fragment
